@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Rocketseat" title="Rocketseat" src=".github/rocketseat.png" width="60px" />
-    <img alt="Proffy" title="Proffy" src=".github/favicon.png" width="60px" />
+    <img alt=" title=" src=".github/Logo.png" width="190px" />
 </h1>
 
 <p align="center">
