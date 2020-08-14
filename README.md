@@ -38,7 +38,7 @@ O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
